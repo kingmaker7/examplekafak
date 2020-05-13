@@ -3,6 +3,9 @@ package com.kafka.example;
 import java.util.ArrayList;
 
 public class Test {
+	public  void main(String args) {
+		System.out.println("test");
+	}
 
 	public static void main(String[] args) {
 		try {
